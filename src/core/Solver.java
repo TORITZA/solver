@@ -1,10 +1,12 @@
+package core;
+
 import java.util.*;
 
 /**
  * A simple puzzle solver used to find the shortest path to a given solution,
  * implementing BFS in tandem with backtracking to achieve this.
  *
- * @author Tereza Lang (@tOri)
+ * @author Tereza Lang (@TORITZA)
  */
 public class Solver {
     /** TOTAL number of configurations generated upon solving */
@@ -13,7 +15,7 @@ public class Solver {
     private int uniqueConfigs;
 
     /**
-     * Creates a new Solver object with totalConfigs & uniqueConfigs initialized
+     * Creates a new core.Solver object with totalConfigs & uniqueConfigs initialized
      * to zero.
      */
     public Solver() {
@@ -22,7 +24,7 @@ public class Solver {
     }
 
     /**
-     * A getter for the Solver's current amount of total configurations.
+     * A getter for the core.Solver's current amount of total configurations.
      *
      * @return total number of configurations generated
      */
@@ -32,7 +34,7 @@ public class Solver {
 
     /**
      * A getter for the number of unique configurations produced
-     * by the Solver.
+     * by the core.Solver.
      *
      * @return total number of unique configurations created
      */
