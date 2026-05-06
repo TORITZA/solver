@@ -1,4 +1,4 @@
 Hours: 12, Start: 2:00, End: 15:00
-Total configs: 25
+Total configs: 24
 Unique configs: 12
 No solution

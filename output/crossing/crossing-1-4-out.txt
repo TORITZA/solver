@@ -1,4 +1,4 @@
 Pups: 1, Wolves: 4
-Total configs: 5
+Total configs: 4
 Unique configs: 3
 No solution
