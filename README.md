@@ -1,6 +1,6 @@
 <h1 align="center"> solver README </h1> 
 
-***
+
 <h4 align="center"> A simple puzzle solver coded in Java used to find the shortest path to a given solution, 
 implementing BFS in tandem with backtracking. </h4>
 
